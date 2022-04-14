@@ -4,6 +4,7 @@
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    color: white;
   }
   
   li {
@@ -21,3 +22,6 @@
   li a:hover {
     background-color: #111;
   }
+  body {
+    background-color: antiquewhite;
+}
