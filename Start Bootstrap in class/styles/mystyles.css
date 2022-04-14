@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+}
+.resume {
+    font-style: oblique;
+}
+.resume2 {
+    font-style: normal;
+    color:cadetblue;
+}
+a:link {
+    color:black; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color:cadetblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:crimson;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .tableaufont {
+    font-style: oblique;
+  }
+  .tableaucolor {
+    color:rosybrown;
+    font-size:x-large;
+    text-align: center;
+  }
+  .footercolor {
+    color: black;
+    font-size: larger;
+  }
+  .centerheader {
+    text-align: center;
+    color: black;
+    font-size:xx-large;
+  }
